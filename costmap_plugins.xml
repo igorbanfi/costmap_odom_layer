@@ -1,0 +1,5 @@
+<library path="costmap_odom_layer_core">
+  <class name="costmap_odom_layer/CostmapOdomLayer" type="costmap_odom_layer::CostmapOdomLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is an example plugin which puts repeating costs gradients to costmap</description>
+  </class>
+</library>
